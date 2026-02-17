@@ -202,3 +202,16 @@ bash run_scripts/TopTagging20/EMLP_test.sh
 cd CGENN
 bash run_scripts/TopTagging20_test.sh
 ```
+
+## Citation
+
+```bibtex
+@inproceedings{hu2025incorporating,
+  title={Incorporating Arbitrary Matrix Group Equivariance into KANs},
+  author={Hu, Lexiang and Wang, Yisen and Lin, Zhouchen},
+  booktitle={International Conference on Machine Learning},
+  pages={24744--24760},
+  year={2025},
+  organization={PMLR}
+}
+```
